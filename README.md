@@ -11,5 +11,4 @@ Frames from Dataset of SBMnet and SBI will be used for testing and
 evaluating the result of the proposed method. The evaluation of the result would be based on the 6 widely used metrics (AGE, pEPs, pCEPS, MSSSIM, PSNR and CQM).
 
 ## Samples with Not Bad Quality
-![Image of result]
-(bg_img/GT_511.jpg)
+![Image of sample result](bg_img/sample_result.png)
